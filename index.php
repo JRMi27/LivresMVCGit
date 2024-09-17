@@ -21,3 +21,5 @@ switch ($action) {
         include "controler/c_NewAuteur.php";
         break;
 } 
+
+?>
